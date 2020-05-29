@@ -5,3 +5,4 @@ Made with MARS simulator using the MIPS 32-bit assembly language, implemented fu
 Functions written in Proj4.asm, to run a function use the "function_name.asm" file and for ease, arguments are located in the args file
 Just place those arguments in the .data section of the "function_name.asm" you are attemping to use
 
+
